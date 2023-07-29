@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy01BulletController : MonoBehaviour
 {
-    private static readonly float SHOOT_SPEED = 16.0f;
+    private static readonly float SHOOT_SPEED = 10.0f;
     private static readonly float X_VISIBLE_LIMIT = 12.0f;
 
     // Start is called before the first frame update

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy01Constoller : MonoBehaviour
 {
-    private static readonly float MOVE_SPEED = 8.0f;
+    private static readonly float MOVE_SPEED = 5.0f;
     private static readonly float X_VISIBLE_LIMIT = 12.0f;
 
     // Start is called before the first frame update
